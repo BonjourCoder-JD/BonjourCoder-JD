@@ -1,49 +1,44 @@
+
 # Hi, I'm JD 👋
 
-### Computer Science Student | Software Engineering | Full-Stack Development | Python & TypeScript
+### Computer Science Student | Software Engineering | Python & TypeScript
 
-I'm a senior Computer Science student at Fayetteville State University, building practical experience in full-stack software development, backend engineering, databases, automated testing, and applied machine learning.
+I'm a senior Computer Science student at Fayetteville State University building full-stack applications, backend APIs, and applied machine learning projects. My background in enterprise IT support and operations leadership helps me approach software engineering with an understanding of real-world business systems.
 
-My professional background includes enterprise IT support, technical troubleshooting, business systems, and operations leadership. I bring an understanding of how technology supports real-world organizations and the people who depend on it.
-
-I'm actively pursuing **software engineering internships and junior developer opportunities**, with particular interests in backend development, application security, and AI.
+I'm seeking **software engineering internships and junior developer opportunities**, particularly in backend development, full-stack engineering, and Python.
 
 ## 🚀 Featured Projects
 
-### [ThreatLens — Authentication Anomaly Detection Platform](https://github.com/BonjourCoder-JD/ThreatLens)
+| Project | Description | Technologies |
+|---|---|---|
+| [ThreatLens](https://github.com/BonjourCoder-JD/ThreatLens) | Cybersecurity analytics platform featuring authentication anomaly detection, investigation workflows, and machine learning. | TypeScript, React, Python, scikit-learn |
+| [Incident Management Platform](https://github.com/BonjourCoder-JD/incident-management-platform) | Full-stack application for incident tracking, REST APIs, database operations, and automated testing. | Python, FastAPI, PostgreSQL, React, TypeScript |
+| [Novera Engineering Case Study](https://github.com/BonjourCoder-JD/Novera-Case_Study) | Engineering case study exploring enterprise application architecture, authorization, API design, and testing. | Next.js, TypeScript, PostgreSQL |
 
-A full-stack cybersecurity analytics application featuring authentication anomaly detection, machine learning, and collaborative security investigations.
+### Project Highlights
 
-**Technologies:** TypeScript, React, Python, scikit-learn, Cloudflare Workers, DeepSpace SDK
-
+**ThreatLens — Security Engineering & Applied ML**
 - Authentication event analysis and anomaly detection
 - Python-based Isolation Forest machine learning
-- Security investigation workflows
-- Automated testing and deployed application architecture
+- Role-based access control and collaborative investigations
+- Automated testing and documented ML evaluation
+- [Explore the repository](https://github.com/BonjourCoder-JD/ThreatLens)
 
-### [Full-Stack Incident Management Platform](https://github.com/BonjourCoder-JD/incident-management-platform)
+**Incident Management — Full-Stack Engineering**
+- RESTful API development using FastAPI
+- PostgreSQL database design and migrations
+- React and TypeScript frontend
+- Automated backend and frontend testing
+- Docker-based development workflows
+- [Explore the repository](https://github.com/BonjourCoder-JD/incident-management-platform)
 
-A full-stack incident management application designed to demonstrate backend API development, relational database design, frontend engineering, and automated testing.
-
-**Technologies:** Python, FastAPI, PostgreSQL, React, TypeScript, Docker
-
-- RESTful incident management APIs
-- Database models and migrations
-- Incident tracking and filtering
-- Backend and frontend automated testing
-- Containerized development and CI workflows
-
-### [Novera — Software Engineering Case Study](https://github.com/BonjourCoder-JD/Novera-Case_Study)
-
-An engineering case study based on Novera, a private enterprise operations and client portal platform.
-
-**Technologies:** Next.js, TypeScript, PostgreSQL
-
+**Novera — Enterprise Software Architecture**
 - Application architecture and API design
 - Authorization and access control
 - Business workflow modeling
-- Testing strategies and engineering documentation
-- Runnable examples illustrating selected technical concepts
+- Testing and technical documentation
+- Runnable TypeScript engineering examples
+- [Explore the case study](https://github.com/BonjourCoder-JD/Novera-Case_Study)
 
 ## 🛠️ Technical Skills
 
@@ -55,27 +50,37 @@ An engineering case study based on Novera, a private enterprise operations and c
 
 **Databases:** PostgreSQL, SQLite
 
-**Testing & Tools:** pytest, Vitest, Git, GitHub Actions, Docker, VS Code
+**Testing & Development:** pytest, Vitest, Git, GitHub Actions, Docker, VS Code
 
-I'm continually strengthening my fundamentals through independent programming practice, technical coursework, and project-based development.
+**Additional Exposure:** Spring Boot, JUnit
 
-## 🔬 Technical Interests
+My experience varies across technologies, and I'm actively strengthening my programming fundamentals through coursework, independent practice, and project-based learning.
+
+## 🔬 Areas of Interest
 
 - Backend and full-stack software engineering
-- Cybersecurity and application security
+- Application security and cybersecurity
 - Data science and machine learning
-- AI reliability and responsible AI development
+- AI reliability and responsible AI
 - Accessible technology and humanitarian applications
 
-## 💻 Development Approach
+## 💼 Professional Background
 
-I use AI-assisted development tools as part of my workflow, alongside code review, testing, debugging, documentation, and continued study of programming fundamentals.
+My experience includes enterprise IT support, application troubleshooting, business systems, workflow improvement, and operations leadership.
 
-My focus is on developing the ability to understand, explain, maintain, and independently improve the software I build.
+I also lead technology planning and software requirements for Avenier Group, including work associated with Novera, a private operations and client portal platform.
 
-## 📫 Connect With Me
+These experiences have shaped how I approach requirements, reliability, usability, and practical software solutions.
+
+## 🧠 Development Approach
+
+I use AI-assisted development tools to accelerate implementation while focusing on requirements, architecture, code review, testing, debugging, and technical understanding.
+
+I'm committed to strengthening my ability to independently write, explain, maintain, and improve the software I develop.
+
+## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/bonjourcoder-jd](https://www.linkedin.com/in/bonjourcoder-jd)
 - **GitHub:** [github.com/BonjourCoder-JD](https://github.com/BonjourCoder-JD)
 
-I'm interested in software engineering internships, junior software developer roles, and opportunities involving backend development, Python, and full-stack engineering.
+**Open to:** Software Engineering Internships | Junior Software Developer | Backend Development | Full-Stack Development
