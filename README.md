@@ -1,45 +1,81 @@
-
 # Hi, I'm JD 👋
 
-### Computer Science Student | Aspiring Software Engineer | Python & Full-Stack Development
+### Computer Science Student | Software Engineering | Full-Stack Development | Python & TypeScript
 
-I'm a senior Computer Science student at Fayetteville State University with a 4.0 GPA and a professional background in enterprise IT support, technical troubleshooting, and operations leadership.
+I'm a senior Computer Science student at Fayetteville State University, building practical experience in full-stack software development, backend engineering, databases, automated testing, and applied machine learning.
 
-I'm focused on developing practical software engineering skills in Python, Java, full-stack development, backend APIs, databases, and automated testing.
+My professional background includes enterprise IT support, technical troubleshooting, business systems, and operations leadership. I bring an understanding of how technology supports real-world organizations and the people who depend on it.
 
-I'm also the Founder & Managing Partner of Avenier Group, where I lead technology strategy, software requirements planning, and the development of Novera, an internal operations and client portal platform.
+I'm actively pursuing **software engineering internships and junior developer opportunities**, with particular interests in backend development, application security, and AI.
 
-## Technical Focus
+## 🚀 Featured Projects
 
-- **Languages:** Python, Java, JavaScript, TypeScript, SQL
-- **Web & Backend:** React, Next.js, FastAPI, Spring Boot, REST APIs
-- **Databases:** PostgreSQL, SQLite
-- **Testing & Tools:** Git, GitHub, pytest, JUnit, Docker, VS Code
-- **Interests:** Software engineering, application security, AI reliability, and accessible technology
+### [ThreatLens — Authentication Anomaly Detection Platform](https://github.com/BonjourCoder-JD/ThreatLens)
 
-*My experience varies across these technologies, and I'm actively developing and expanding my skills through practical projects.*
+A full-stack cybersecurity analytics application featuring authentication anomaly detection, machine learning, and collaborative security investigations.
 
-## Software Engineering Portfolio
+**Technologies:** TypeScript, React, Python, scikit-learn, Cloudflare Workers, DeepSpace SDK
 
-I'm developing a portfolio of applications that demonstrate software design, backend development, data processing, testing, and technical documentation.
+- Authentication event analysis and anomaly detection
+- Python-based Isolation Forest machine learning
+- Security investigation workflows
+- Automated testing and deployed application architecture
 
-Projects will be featured here as they are completed and verified.
+### [Full-Stack Incident Management Platform](https://github.com/BonjourCoder-JD/incident-management-platform)
 
-## Professional Background
+A full-stack incident management application designed to demonstrate backend API development, relational database design, frontend engineering, and automated testing.
 
-My experience includes enterprise IT support, application troubleshooting, workflow improvement, technical operations, and team leadership.
+**Technologies:** Python, FastAPI, PostgreSQL, React, TypeScript, Docker
 
-I bring a practical understanding of how software supports business operations and the people who rely on it.
+- RESTful incident management APIs
+- Database models and migrations
+- Incident tracking and filtering
+- Backend and frontend automated testing
+- Containerized development and CI workflows
 
-## Development Approach
+### [Novera — Software Engineering Case Study](https://github.com/BonjourCoder-JD/Novera-Case_Study)
 
-I use AI-assisted development tools to accelerate implementation while focusing on requirements, architecture decisions, code review, testing, validation, and technical understanding.
+An engineering case study based on Novera, a private enterprise operations and client portal platform.
 
-I believe effective software engineering combines strong fundamentals, thoughtful design, reliable testing, and continuous learning.
+**Technologies:** Next.js, TypeScript, PostgreSQL
 
-## Let's Connect
+- Application architecture and API design
+- Authorization and access control
+- Business workflow modeling
+- Testing strategies and engineering documentation
+- Runnable examples illustrating selected technical concepts
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, TypeScript, JavaScript, Java, SQL
+
+**Frontend:** React, Next.js
+
+**Backend:** FastAPI, REST APIs
+
+**Databases:** PostgreSQL, SQLite
+
+**Testing & Tools:** pytest, Vitest, Git, GitHub Actions, Docker, VS Code
+
+I'm continually strengthening my fundamentals through independent programming practice, technical coursework, and project-based development.
+
+## 🔬 Technical Interests
+
+- Backend and full-stack software engineering
+- Cybersecurity and application security
+- Data science and machine learning
+- AI reliability and responsible AI development
+- Accessible technology and humanitarian applications
+
+## 💻 Development Approach
+
+I use AI-assisted development tools as part of my workflow, alongside code review, testing, debugging, documentation, and continued study of programming fundamentals.
+
+My focus is on developing the ability to understand, explain, maintain, and independently improve the software I build.
+
+## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/bonjourcoder-jd](https://www.linkedin.com/in/bonjourcoder-jd)
 - **GitHub:** [github.com/BonjourCoder-JD](https://github.com/BonjourCoder-JD)
 
-I'm interested in junior software engineering, Python development, backend development, and full-stack development opportunities.
+I'm interested in software engineering internships, junior software developer roles, and opportunities involving backend development, Python, and full-stack engineering.
